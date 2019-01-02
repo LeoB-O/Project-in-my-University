@@ -63,4 +63,4 @@ def log_in(user_name, password, oncaptcha):
 
 
 if __name__ == '__main__':
-    log_in('3160608005','BslLbbMjl5482',kill_captcha)
+    log_in('id','password',kill_captcha)
